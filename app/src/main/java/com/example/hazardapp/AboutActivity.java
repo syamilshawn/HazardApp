@@ -55,7 +55,7 @@ public class AboutActivity extends AppCompatActivity {
         TextView githubLink = findViewById(R.id.githubLink);
         githubLink.setOnClickListener(v -> {
             Intent browserIntent = new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://github.com/yourgroup/hazardapp"));
+                    Uri.parse("https://github.com/syamilshawn/HazardApp"));
             startActivity(browserIntent);
         });
     }

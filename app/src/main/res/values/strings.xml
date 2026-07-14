@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HazardApp</string>
+    <string-array name="hazard_categories">
+        <item>Road Hazard</item>
+        <item>Environmental Hazard</item>
+        <item>Building Hazard</item>
+    </string-array>
+</resources>
